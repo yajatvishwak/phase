@@ -67,7 +67,7 @@
     {#key targetPage}
       <!-- svelte-ignore a11y-missing-attribute -->
       <object
-        data={"https://pdfhost.io/pdf/59424687-88dd-4583-b0d8-837a5b8addf2/78ffbd37-d37a-4d75-a39d-86a5346a0295.pdf#page=" +
+        data={"document.pdf#page=" +
           targetPage}
         type="application/pdf"
         width="100%"
